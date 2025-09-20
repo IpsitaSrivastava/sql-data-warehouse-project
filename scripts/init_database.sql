@@ -19,6 +19,8 @@ CREATE DATABASE IF NOT EXISTS DataWarehouse;
 
 USE DataWarehouse;
 
+-- Creating Schema
+
 CREATE SCHEMA bronze;
 
 CREATE SCHEMA silver;
